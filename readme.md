@@ -1,0 +1,1 @@
+Ini adalah beberapa tugas kuliah saya yang saya tulis dalam bahasa markdown. Memang agak kurang rapi, tetapi saya lebih enak menggunakan markdown karena menurut saya tampilannya yang lebih simpleenak dilihat daripada membuatnya dengan ms.word dan dalam membuatnya sangat simple hanya menggunakan text editor biasa.
